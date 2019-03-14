@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vuelearn
 
 ## Project setup
@@ -27,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vueLearn
+Basics of Vue
+>>>>>>> ae7d248ff0943e27a180adea193c0926a1ae3dcd
